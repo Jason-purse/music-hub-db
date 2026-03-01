@@ -921,7 +921,7 @@
       "audio_url": "/uploads/music/517344b7-90da-4712-a574-e73070a2b6a0.mp3",
       "duration": 271,
       "file_size": 0,
-      "play_count": 6,
+      "play_count": 9,
       "like_count": 0,
       "category": "华语",
       "decade": "2020s",
@@ -1331,5 +1331,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-03-01T05:57:59.418Z"
+  "updatedAt": "2026-03-01T06:07:39.260Z"
 }
