@@ -1,0 +1,78 @@
+{
+  "id": "9586ff4c-fe8c-498d-8214-497d79fe8d45",
+  "name": "周杰伦精选",
+  "description": "Jay的经典作品集",
+  "cover_url": "",
+  "song_count": 3,
+  "play_count": 0,
+  "created_at": "2026-03-01 02:12:15",
+  "updated_at": "2026-03-01 02:12:15",
+  "songs": [
+    {
+      "id": "1921e6bc-853c-4be7-8a8f-9a8549874753",
+      "title": "反方向的钟",
+      "artist": "周杰伦",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=a6049aab184a305caa906c6bbb8e8233",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 1,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2000s",
+      "tags": [
+        "流行",
+        "周杰伦"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:34",
+      "updated_at": "2026-03-01 02:17:34"
+    },
+    {
+      "id": "1cd39959-7a60-4cca-b30a-173c9a46e6cc",
+      "title": "简单爱",
+      "artist": "周杰伦",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=6e44ce19be5872384fa184b995cce23b",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2000s",
+      "tags": [
+        "流行",
+        "周杰伦"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:36",
+      "updated_at": "2026-03-01 02:17:36"
+    },
+    {
+      "id": "e448e00b-87eb-4055-9567-6a3a33a02b5d",
+      "title": "告白气球",
+      "artist": "周杰伦",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=688857974673645ce89eda26a36db19d",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2010s",
+      "tags": [
+        "流行",
+        "周杰伦"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:36",
+      "updated_at": "2026-03-01 02:17:36"
+    }
+  ]
+}
