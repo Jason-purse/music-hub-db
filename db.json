@@ -28,7 +28,7 @@
       "audio_url": "/uploads/music/caedef93-62de-42e5-9af8-c66a19cc8be7.mp3",
       "duration": 318,
       "file_size": 0,
-      "play_count": 1,
+      "play_count": 3,
       "like_count": 0,
       "category": "经典",
       "decade": "80s",
@@ -1331,5 +1331,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-03-01T04:58:24.401Z"
+  "updatedAt": "2026-03-01T05:57:42.536Z"
 }
