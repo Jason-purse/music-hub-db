@@ -1,0 +1,167 @@
+{
+  "id": "175ff2a4-29bb-4db4-9a84-de4cea18d8ad",
+  "name": "80年代经典回忆",
+  "description": "邓丽君、张国荣、梅艳芳的不朽经典",
+  "cover_url": "",
+  "song_count": 7,
+  "play_count": 0,
+  "created_at": "2026-03-01 02:12:15",
+  "updated_at": "2026-03-01 02:12:15",
+  "songs": [
+    {
+      "id": "0b9a505f-39be-46cf-a26a-a1fb1d21824f",
+      "title": "千千阕歌",
+      "artist": "陈慧娴",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=81e5a1c3b9e016d61fe91b809b4a7dc1",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "80s",
+      "tags": [
+        "经典",
+        "粤语",
+        "怀旧"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:37",
+      "updated_at": "2026-03-01 02:17:37"
+    },
+    {
+      "id": "fbc8fa0f-d886-4f71-87df-46af1982f60d",
+      "title": "真的爱你",
+      "artist": "BEYOND",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=c46916711631ea28508a41c325a74e1b",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "90s",
+      "tags": [
+        "摇滚",
+        "经典"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:35",
+      "updated_at": "2026-03-01 02:17:35"
+    },
+    {
+      "id": "97da0471-7651-4556-83e4-4bf1790f7e6a",
+      "title": "红豆",
+      "artist": "王菲",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=aef916a18baae9c8e7807179c8da64d1",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "90s",
+      "tags": [
+        "流行",
+        "情歌",
+        "经典"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:35",
+      "updated_at": "2026-03-01 02:17:35"
+    },
+    {
+      "id": "9d12e4f1-cc4e-400f-b194-c8c70848f4f0",
+      "title": "童年老家",
+      "artist": "马健涛",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=3cd554a2200d4a6b3523516748d8800a",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2010s",
+      "tags": [
+        "流行",
+        "怀旧"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:41",
+      "updated_at": "2026-03-01 02:17:41"
+    },
+    {
+      "id": "f6339c47-1660-4171-b438-a535753662c9",
+      "title": "广东爱情故事",
+      "artist": "广东雨神",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=7a2956668c7d5393ff16ad930c23f2fd",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2010s",
+      "tags": [
+        "粤语",
+        "流行"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:40",
+      "updated_at": "2026-03-01 02:17:40"
+    },
+    {
+      "id": "8dfa40cf-4459-48f1-b996-51873ee340be",
+      "title": "失落沙洲",
+      "artist": "徐佳莹",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=67ab6e9e7563db415b57573d117c89fe",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2000s",
+      "tags": [
+        "流行",
+        "情歌"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:38",
+      "updated_at": "2026-03-01 02:17:38"
+    },
+    {
+      "id": "e203a345-890d-4872-8c55-17eb6b629c15",
+      "title": "Letting Go",
+      "artist": "蔡健雅",
+      "album": "",
+      "cover_url": "",
+      "audio_url": "https://www.mvmp3.com/plug/down.php?ac=music&id=326cbb23baa90062047512376aa406a4",
+      "duration": 0,
+      "file_size": 0,
+      "play_count": 0,
+      "like_count": 0,
+      "category": "华语",
+      "decade": "2010s",
+      "tags": [
+        "流行"
+      ],
+      "lyrics": "",
+      "source": "mvmp3",
+      "created_at": "2026-03-01 02:17:38",
+      "updated_at": "2026-03-01 02:17:38"
+    }
+  ]
+}
